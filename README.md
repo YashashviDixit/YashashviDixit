@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashashviDixit
 - 👀 I’m interested in exploring various technologies and variety of projects
-- 🌱 I’m currently learning SQl,Web development and Coding
+- 🌱 I’m currently learning SQL,Web development and Coding
 - 💞️ I’m looking to collaborate on varius projects where i can enhance my newly learned skills
 
 
